@@ -7,3 +7,4 @@ CTF writeups and solutions — picoCTF challenges
 |---|---|---|---|
 | Hidden in Plainsight | Forensics | Easy | ✅ |
 | Riddle Registry | Forensics | Easy | ✅ |
+| Log Hunt | General Skills | Easy | ✅ |
