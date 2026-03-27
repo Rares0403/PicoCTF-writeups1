@@ -9,5 +9,6 @@ CTF writeups and solutions — picoCTF challenges
 | Riddle Registry | Forensics | Easy | ✅ |
 | Log Hunt | General Skills | Easy | ✅ |
 | Flag in Flame | Forensics | Easy | ✅ |
+| SUDO MAKE ME A SANDWICH | General Skills | Easy | ✅ |
 | Corrupted File | Forensics | Easy/Medium | ✅ |
 | Old Session | Web Exploitation | Easy/Medium | ✅ |
